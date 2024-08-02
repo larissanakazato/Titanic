@@ -26,5 +26,5 @@ Prever os passageiros que sobreviveram ao naufrágio do Titanic com machine lear
   <li>Embarked - Portão de embarque (C = Cherbourg, Q = Queenstown, S = Southampton)</li>
 </ul>
 
-<h2>Metodologi</h2>
+<h2>Metodologia</h2>
 Foram aplicados os modelos Decision Tree e Random Forest para comparar qual teria melhor acurácia.
